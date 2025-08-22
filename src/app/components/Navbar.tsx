@@ -7,7 +7,7 @@ function Navbar() {
       <div className="">Viral</div>
       <div>
         <Button>
-            Sign 
+            Sign in
         </Button>
       </div>
     </div>
